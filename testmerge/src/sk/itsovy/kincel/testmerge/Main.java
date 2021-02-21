@@ -1,5 +1,12 @@
 package sk.itsovy.kincel.testmerge;
 
+
+//my class
+public class Main {
+    public static void main(String[] argstr) {
+        System.out.println("I'm hungry.");
+        // hladny <?????
+
 //trieda
 public class Main {
     public static void main(String[] args) {
@@ -11,5 +18,8 @@ public class Main {
     }
     public void hello(){
          // hello   
+    }
+    public int calc(){
+         return 7;   
     }
 }
